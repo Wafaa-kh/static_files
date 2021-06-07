@@ -6,7 +6,7 @@ const  bodyParserMiddleWare= bodyparser.urlencoded({extended: true})
 const path = require("path")
 app.use(express.static(path.join(__dirname + '/')));
 
-app.use(express.static('css'))//external css
+app.use(express.static('static'))//external css
 /*
 app.get('/node.css', function(req, res, next) {
     res.sendFile(__dirname + "/" + "node.css");
