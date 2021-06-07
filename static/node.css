@@ -1,0 +1,37 @@
+body{
+    background-color: #eff4f5e8;
+    text-align: center;
+    border: 2px  rgb(3, 3, 139) solid;
+    width: 98%;
+    height: 1000px;
+  
+   }
+#text{
+    margin-top: 50px;
+    border: 2px  rgb(3, 3, 139) solid;
+    width: 165px;
+    height: 35px;
+    text-align: center;
+    background-color:  rgb(169, 243, 233);
+}
+#text1{
+    border: 2px rgb(3, 3, 139) solid;
+    width: 343px;
+    height: 35px;
+    text-align: center;
+    background-color:  rgb(169, 243, 233);
+}
+#send{
+    width: 343px;
+    height: 35px;
+    text-align: center;
+    background-color:  rgb(234, 238, 236);
+    border-color: black;
+}
+h1{
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+.birthday{
+    text-align: center;
+}
